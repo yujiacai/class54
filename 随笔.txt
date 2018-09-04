@@ -1,0 +1,18 @@
+json  ajex  原理
+
+落下的:
+1---oracle的sql语句
+       
+2---分页查询基于oracle数据库的自定义pageBean方法
+       
+3---多表查询封装和延迟加载
+
+4--分页插件的源码流程,springSecurity的的11种过滤器
+
+5--文件上传的流程
+
+6--ssm整合的两天内容
+Https
+https://github.com/yujiacai/class54.git
+ssh
+git@github.com:yujiacai/class54.git
